@@ -1,6 +1,6 @@
 # NAME
 
-inkan_generator - 印鑑生成ツール【inkan(seal) generator】
+inkan_generator.pl - 印鑑生成ツール【inkan(seal) generator】
 
 # USAGE
 
@@ -21,6 +21,10 @@ inkan_generator TEXT
     --output    [o] output file name. [DEFAULT=-] *STDOUT
                     auto detect image type from output file name if no image type was given.
                     e.g.    --output=inkan.png
+
+# DEPENDENCIES
+
+[ImageMagick®](https://www.imagemagick.org)
 
 # LICENSE
 
