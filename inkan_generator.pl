@@ -112,7 +112,7 @@ $0 TEXT
     --type      [t] image type. allow <jpeg|png|gif|pdf> [DEFAULT=png]
                     e.g.)   --type=pdf
 
-    --font      [f] font family or font file path. [DEFAULT Mincho]A
+    --font      [f] font family or font file path. [DEFAULT Mincho]
                     available font list ... fc-list, convert -list font
                     e.g.    --font="/System/Library/Fonts/ヒラギノ明朝 ProN W6.ttc"
 
