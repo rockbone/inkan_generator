@@ -8,19 +8,19 @@ inkan_generator TEXT
 
     TEXT            the text for inkan. allow 1~4 characters.
 
-    --size      [s] image square size. allow 64~512. [DEFAULT=100]
+    --size   [s]    image square size. allow 64~512. [DEFAULT=100]
                     e.g.)   --size=128 (128x128)
 
-    --type      [t] image type. allow <jpeg|png|gif|pdf> [DEFAULT=png]
+    --type   [t]    image type. allow <jpeg|png|gif|pdf> [DEFAULT=png]
                     e.g.)   --type=pdf
 
-    --font      [f] font family or font file path. [DEFAULT Mincho]A
+    --font   [f]    font family or font file path. [DEFAULT Mincho]
                     available font list ... fc-list, convert -list font
                     e.g.    --font="/System/Library/Fonts/ヒラギノ明朝 ProN W6.ttc"
 
-    --output    [o] output file name. [DEFAULT=-] *STDOUT
-                    auto detect image type from output file name if no image type was given.
-                    e.g.    --output=inkan.png
+    --output [o]    output file name. [DEFAULT=-] *STDOUT
+                       auto detect image type from output file name if no image type was given.
+                       e.g.    --output=inkan.png
 
 # DEPENDENCIES
 
