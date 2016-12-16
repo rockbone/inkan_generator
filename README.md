@@ -1,3 +1,7 @@
+|森|鈴木|佐々木|勅使河原|
+|:--:|:--:|:--:|:--:|
+|![森](https://raw.githubusercontent.com/wiki/rockbone/inkan_generator/img/sample/mori.png)|![鈴木](https://raw.githubusercontent.com/wiki/rockbone/inkan_generator/img/sample/suzuki.png)|![佐々木](https://raw.githubusercontent.com/wiki/rockbone/inkan_generator/img/sample/sasaki.png)|![勅使河原](https://raw.githubusercontent.com/wiki/rockbone/inkan_generator/img/sample/teshigawara.png)|
+
 # NAME
 
 inkan_generator.pl - 印鑑生成ツール【inkan(seal) generator】
